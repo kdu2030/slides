@@ -2,7 +2,7 @@
   "name": "worship-slides-creator",
   "homepage": "https://kdu2030.github.io/slides",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
