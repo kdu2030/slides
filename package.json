@@ -1,6 +1,6 @@
 {
   "name": "worship-slides-creator",
-  "homepage": "https://kdu2030.github.io/slides",
+  "homepage": ".",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
